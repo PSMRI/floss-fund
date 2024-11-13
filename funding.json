@@ -21,7 +21,7 @@
       },
       "repositoryUrl": {
         "url": "https://github.com/PSMRI/AMRIT",
-        "wellKnown": "https://github.com/PSMRI/AMRIT/.well-known/funding-manifest-urls"
+        "wellKnown": "https://github.com/PSMRI/AMRIT/blob/main/.well-known/funding-manifest-urls"
       },
       "licenses": [
         "spdx:GPL-3.0-or-later"
