@@ -1,0 +1,100 @@
+{
+  "version": "v1.0.0",
+  "entity": {
+    "type": "organisation",
+    "role": "owner",
+    "name": "Piramal Swasthya Management and Research Institute",
+    "email": "amrit@piramalswasthya.org",
+    "description": "Piramal Swasthya is committed to bridging public healthcare gaps by supporting and complementing the Government of India’s vision to achieve Universal Health Coverage. Piramal Swasthya focuses on Maternal Health, Child and Adolescent Health, and Non-communicable Diseases as one of India's largest not-for-profit organisations in primary public healthcare. With over a decade of experience, the organization has scaled several healthcare innovations to meet the primary healthcare needs of underserved and marginalized populations across India.\n\nCurrently operational in 21 states through 35 innovative public healthcare programs, Piramal Swasthya has served more than 112 million beneficiaries to date.",
+    "webpageUrl": {
+      "url": "https://github.com/PSMRI"
+    }
+  },
+  "projects": [
+    {
+      "guid": "amrit",
+      "name": "Accessible Medical Records via Integrated Technologies (AMRIT)",
+      "description": "AMRIT (Accessible Medical Records via Integrated Technologies) is an open-source platform designed to strengthen primary healthcare by empowering frontline health workers with the right digital tools for data-driven decision-making and seamless access to patients' Electronic Health Records (EHR) through ABDM-compliant, interoperable systems.",
+      "webpageUrl": {
+        "url": "https://amrit.piramalswasthya.org",
+        "wellKnown": "https://amrit.piramalswasthya.org/.well-known/funding-manifest-urls"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/PSMRI/AMRIT"
+      },
+      "licenses": [
+        "spdx:GPL-3.0-or-later"
+      ],
+      "tags": [
+        "healthcare",
+        "digital-health",
+        "public-health",
+        "technology-for-good",
+        "electronic-health-record",
+        "rural-health-access"
+      ]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "psmribank",
+        "type": "bank",
+        "description": "We will accept direct bank transfers. Please e-mail for details."
+      }
+    ],
+    "plans": [
+      {
+        "guid": "development-plan-one-time",
+        "status": "active",
+        "name": "Developer compensation - One time",
+        "description": "The funds for AMRIT in 2024-25 will be utilized to support 6 months of development, advancing the platform’s capabilities and broadening its impact. This includes streamlining operational service delivery for enhanced efficiency, conducting vulnerability assessments (VAPT) to ensure robust security, and positioning AMRIT as a model for Digital Public Goods (DPG). Additionally, funds will support efforts to enhance the application's configurability, ensure compliance with updated health standards, develop a mobile app for primary care and foster interoperability by integrating with government portals like eSanjeevani and Nikshay for seamless data exchange. These initiatives aim to reinforce AMRIT’s role as a critical tool for strengthening healthcare accessibility and quality across India.",
+        "amount": 8100000,
+        "currency": "INR",
+        "frequency": "one-time",
+        "channels": [
+          "psmribank"
+        ]
+      },
+      {
+        "guid": "development-plan-monthly",
+        "status": "active",
+        "name": "Developer compensation - Monthly",
+        "description": "The funds for AMRIT in 2024-25 will be utilized to advance the platform’s capabilities and broaden its impact. This includes streamlining operational service delivery for enhanced efficiency, conducting vulnerability assessments (VAPT) to ensure robust security, and positioning AMRIT as a model for Digital Public Goods (DPG). Additionally, funds will support efforts to enhance the application's configurability, ensure compliance with updated health standards, develop a mobile app for primary care and foster interoperability by integrating with government portals like eSanjeevani and Nikshay for seamless data exchange. These initiatives aim to reinforce AMRIT’s role as a critical tool for strengthening healthcare accessibility and quality across India.",
+        "amount": 1350000,
+        "currency": "INR",
+        "frequency": "monthly",
+        "channels": [
+          "psmribank"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "year": 2024,
+        "expenses": 5585927,
+        "currency": "INR"
+      },
+      {
+        "year": 2023,
+        "expenses": 84267559,
+        "currency": "INR"
+      },
+      {
+        "year": 2022,
+        "expenses": 27779548,
+        "currency": "INR"
+      },
+      {
+        "year": 2021,
+        "expenses": 6921208,
+        "currency": "INR"
+      },
+      {
+        "year": 2020,
+        "expenses": 11185749,
+        "currency": "INR"
+      }
+    ]
+  }
+}
