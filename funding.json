@@ -61,7 +61,7 @@
         "guid": "development-plan-monthly",
         "status": "active",
         "name": "Developer compensation - Monthly",
-        "description": "AMRIT’s 2024-25 funds will enhance platform capabilities and broaden impact by streamlining service delivery, conducting VAPT for security, and positioning AMRIT as a Digital Public Good (DPG). Funds will also support configurability improvements, compliance with health standards, development of a primary care mobile app, and integration with government portals like eSanjeevani and Nikshay for seamless data exchange, strengthening healthcare accessibility and quality across India."
+        "description": "AMRIT’s 2024-25 funds will enhance platform capabilities and broaden impact by streamlining service delivery, conducting VAPT for security, and positioning AMRIT as a Digital Public Good (DPG). Funds will also support configurability improvements, compliance with health standards, development of a primary care mobile app, and integration with government portals like eSanjeevani and Nikshay for seamless data exchange, strengthening healthcare accessibility and quality across India.",
         "amount": 1350000,
         "currency": "INR",
         "frequency": "monthly",
